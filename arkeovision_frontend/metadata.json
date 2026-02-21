@@ -1,0 +1,10 @@
+{
+  "name": "ArkeoVision",
+  "description": "Yapay zeka destekli arkeolojik eser tanıma, restorasyon ve VR deneyim platformu.",
+  "version": "1.0.0",
+  "author": "ArkeoVision Team",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
